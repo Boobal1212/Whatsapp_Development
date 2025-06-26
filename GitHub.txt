@@ -4,3 +4,5 @@ What is Git ? --> Version control software
 What is Version control ? --> Project > project updated > final project > Updated Final
 Why version control ? 
 Where it can be used?
+Adding the audio call
+Adding video call
